@@ -1,0 +1,14 @@
+header {
+    background-image:linear-gradient(#FCFAE9, #000000) ;
+    border: 5px inset black;
+    color: #3B93E0;
+
+}
+
+.logo {
+      border: 3px inset #2F2F2F;
+}
+
+.new{
+    text-decoration: none;
+}
